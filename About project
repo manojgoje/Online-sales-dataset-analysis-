@@ -1,0 +1,83 @@
+Online Sales Dataset Analysis
+
+📌 Project Overview
+
+This project performs Exploratory Data Analysis (EDA) on a large-scale online sales dataset using Python. The goal is to extract meaningful insights into customer purchasing behavior, product performance, and regional sales trends through data preprocessing, cleaning, and visualization.
+
+🛠️ Tech Stack
+
+Programming Language: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+Tools: Jupyter Notebook / Google Colab
+
+
+📊 Key Features
+
+✔️ Data Preprocessing & Cleaning:
+
+Handled missing values and duplicate records.
+
+Standardized data formats and removed inconsistencies.
+
+
+✔️ Exploratory Data Analysis (EDA):
+
+Identified top-selling products and revenue trends.
+
+Analyzed customer behavior and purchase frequency.
+
+Evaluated regional sales distribution and category-wise performance.
+
+
+✔️ Data Visualization:
+
+Bar charts for top-selling products.
+
+Pie charts for revenue contributions by category.
+
+Geographical heatmaps for regional sales trends.
+
+
+📂 Project Structure
+
+📁 Online-Sales-EDA
+│── 📂 data                 # Raw & processed dataset
+│── 📂 notebooks            # Jupyter notebooks for analysis
+│── 📂 images               # Generated visualizations
+│── 📜 requirements.txt     # Required Python libraries
+│── 📜 README.md            # Project documentation
+│── 📜 sales_analysis.ipynb # Main EDA notebook
+
+🚀 Getting Started
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/your-username/Online-Sales-EDA.git
+cd Online-Sales-EDA
+
+2️⃣ Install Dependencies
+
+pip install -r requirements.txt
+
+3️⃣ Run the Jupyter Notebook
+
+jupyter notebook
+
+📈 Sample Visualizations
+
+📢 Future Improvements
+
+Integrate time-series analysis for sales forecasting.
+
+Implement interactive dashboards using Plotly.
+
+Apply machine learning models for predictive analytics.
+
+
+🔗 Connect with Me
+
+🔹 GitHub: manojgoje
+🔹 LinkedIn: Manoj Goje
+
